@@ -12,3 +12,9 @@ Furtheraway I'll be moving on to blockchain development, and any technology that
 Continued with The Odin Project's landing page project, which is sushi themed. Since I did the HTML structure yesterday, today I focused on tuning up the hero section.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1448665927701176322)
+
+### R1D2 [October 15, Friday, 2021]
+
+Sushi landig page initial template finished, but will be further styled tomorrow.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1449156052197552140)
