@@ -18,3 +18,9 @@ Continued with The Odin Project's landing page project, which is sushi themed. S
 Sushi landig page initial template finished, but will be further styled tomorrow.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1449156052197552140)
+
+### R1D3 [October 16, Saturday, 2021]
+
+Sushi landing page is completed! Still not responsive for mobile but it will be done later. Moving on to further lessons and projects!
+
+[Today's tweet.](https://twitter.com/doggelou/status/1449599255325335552)
