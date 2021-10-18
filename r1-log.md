@@ -24,3 +24,9 @@ Sushi landig page initial template finished, but will be further styled tomorrow
 Sushi landing page is completed! Still not responsive for mobile but it will be done later. Moving on to further lessons and projects!
 
 [Today's tweet.](https://twitter.com/doggelou/status/1449599255325335552)
+
+### R1D4 [October 17, Sunday, 2021]
+
+Now as the [sushi landing page](https://github.com/doggelou/sushi-landing-page) is done, I'm moving on to the JavaScript section of Foundations. While reading the lessons, I'm working on FreeCodeCamp's tribute page html/css project so I'm actually coding aside from the tutorials.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1449938896373129216)
