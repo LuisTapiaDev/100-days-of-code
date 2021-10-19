@@ -30,3 +30,9 @@ Sushi landing page is completed! Still not responsive for mobile but it will be 
 Now as the [sushi landing page](https://github.com/doggelou/sushi-landing-page) is done, I'm moving on to the JavaScript section of Foundations. While reading the lessons, I'm working on FreeCodeCamp's tribute page html/css project so I'm actually coding aside from the tutorials.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1449938896373129216)
+
+### R1D5 [October 18, Monday, 2021]
+
+Not great visual changes today, but I'm almost done cloning the FreeCodeCamp's mobile reference page for building the project. Next steps are adapting for desktop and then customizing the content and additional CSS to make it look nicer.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1450324352314920964)
