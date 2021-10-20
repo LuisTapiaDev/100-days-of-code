@@ -36,3 +36,9 @@ Now as the [sushi landing page](https://github.com/doggelou/sushi-landing-page) 
 Not great visual changes today, but I'm almost done cloning the FreeCodeCamp's mobile reference page for building the project. Next steps are adapting for desktop and then customizing the content and additional CSS to make it look nicer.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1450324352314920964)
+
+### R1D6 [October 19, Tuesday, 2021]
+
+Tweaked a few things and added media queries for resembling the FreeCodeCamp's example page. Now I'm adding my own content and style, beginning with the Marcus Aurelius image and placeholder text.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1450687018686717953)
