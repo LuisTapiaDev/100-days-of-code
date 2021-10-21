@@ -42,3 +42,9 @@ Not great visual changes today, but I'm almost done cloning the FreeCodeCamp's m
 Tweaked a few things and added media queries for resembling the FreeCodeCamp's example page. Now I'm adding my own content and style, beginning with the Marcus Aurelius image and placeholder text.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1450687018686717953)
+
+### R1D7 [October 20, Wednesday, 2021]
+
+Almost done with the project. Changed the display, colors, and background of the website. Only a few more styles and the timeline/quote content remaining.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1451050264379727873)
