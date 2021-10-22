@@ -48,3 +48,9 @@ Tweaked a few things and added media queries for resembling the FreeCodeCamp's e
 Almost done with the project. Changed the display, colors, and background of the website. Only a few more styles and the timeline/quote content remaining.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1451050264379727873)
+
+### R1D8 [October 21, Thursday, 2021]
+
+The [tribute page](https://github.com/doggelou/tribute-page) is finally done. It took a while but it's worth the results. Probably React stuff will be added later as I advance with The Odin Project's JavaScript path, but it's fine for now.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1451451941033291808)
