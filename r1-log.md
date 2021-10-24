@@ -54,3 +54,9 @@ Almost done with the project. Changed the display, colors, and background of the
 The [tribute page](https://github.com/doggelou/tribute-page) is finally done. It took a while but it's worth the results. Probably React stuff will be added later as I advance with The Odin Project's JavaScript path, but it's fine for now.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1451451941033291808)
+
+### R1D9 [October 23, Saturday, 2021]
+
+I couldn't commit here yesterday. I did try to do it and made the GitHub repo, but was too sleepy to complete the 1-hour daily challenge. Today I'm continuing with the freeCodeCamp's survey form project. The html is already done and passed all the tests. So, tomorrow will be meant to make the project look beautiful.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1452181741175705600)
