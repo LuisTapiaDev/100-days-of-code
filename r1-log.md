@@ -60,3 +60,9 @@ The [tribute page](https://github.com/doggelou/tribute-page) is finally done. It
 I couldn't commit here yesterday. I did try to do it and made the GitHub repo, but was too sleepy to complete the 1-hour daily challenge. Today I'm continuing with the freeCodeCamp's survey form project. The html is already done and passed all the tests. So, tomorrow will be meant to make the project look beautiful.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1452181741175705600)
+
+### R1D10 [October 24, Sunday, 2021]
+
+I made an image background for the form and applied a few media queries to make the webpage responsive. I'm pretty close to finish this one, and mostly what's remaining is styling the fonts and form elements. Will probably personalize the form info later. On the other side, I'm taking steps to get to The Odin Project's JS calculator ASAP, so the fun begins!
+
+[Today's tweet.](https://twitter.com/doggelou/status/1452539394079006720)
