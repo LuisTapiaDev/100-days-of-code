@@ -66,3 +66,9 @@ I couldn't commit here yesterday. I did try to do it and made the GitHub repo, b
 I made an image background for the form and applied a few media queries to make the webpage responsive. I'm pretty close to finish this one, and mostly what's remaining is styling the fonts and form elements. Will probably personalize the form info later. On the other side, I'm taking steps to get to The Odin Project's JS calculator ASAP, so the fun begins!
 
 [Today's tweet.](https://twitter.com/doggelou/status/1452539394079006720)
+
+### R1D11 [October 25, Monday, 2021]
+
+Styling form elements isn't as straightforward as I thought but I'm pretty much done with that. It already looks cool, further details would be refining the stuff. CSS has been kinda tricky so far, and some seemingly simple things actually take its time to figure it out. Still looking forward to JS.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1452915046170996739)
