@@ -72,3 +72,9 @@ I made an image background for the form and applied a few media queries to make 
 Styling form elements isn't as straightforward as I thought but I'm pretty much done with that. It already looks cool, further details would be refining the stuff. CSS has been kinda tricky so far, and some seemingly simple things actually take its time to figure it out. Still looking forward to JS.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1452915046170996739)
+
+### R1D12 [October 26, Tuesday, 2021]
+
+I haven't coded with python after a while, but it's my first programming language -from which I've learned the syntax, at least. I've returned to it today while completing the freeCodeCamp's Scientific Computing with Python Certification's arithmetic formatter project. Though the time I've been around with it, my knowledge is still within the basic syntax, and the project seems challenging, so I'm happy with it.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1453252621456773127)
