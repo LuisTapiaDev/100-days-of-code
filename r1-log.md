@@ -78,3 +78,9 @@ Styling form elements isn't as straightforward as I thought but I'm pretty much 
 I haven't coded with python after a while, but it's my first programming language -from which I've learned the syntax, at least. I've returned to it today while completing the freeCodeCamp's Scientific Computing with Python Certification's arithmetic formatter project. Though the time I've been around with it, my knowledge is still within the basic syntax, and the project seems challenging, so I'm happy with it.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1453252621456773127)
+
+### R1D13 [October 27, Wednesday, 2021]
+
+Python program is taking shape. It now prompts the user to enter two numbers and an operator. I handles exceptions very well, and displays all the operations results either when it reaches a max of 5 or when the user tells so. Still, it needs to format the results and get input by means of a function, but the core is already there.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1453628397993684994)
