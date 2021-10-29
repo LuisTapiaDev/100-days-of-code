@@ -84,3 +84,9 @@ I haven't coded with python after a while, but it's my first programming languag
 Python program is taking shape. It now prompts the user to enter two numbers and an operator. I handles exceptions very well, and displays all the operations results either when it reaches a max of 5 or when the user tells so. Still, it needs to format the results and get input by means of a function, but the core is already there.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1453628397993684994)
+
+### R1D14 [October 28, Thursday, 2021]
+
+I'm working on the arithmetic_arranger function. It does the job: returns an arranged problem. The only minor issue are a few times when the formatter doesn't add an extra space between operator and operand. Still, that needs to be adapted to other project's requites but it's going alright.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1453895043706728449)
