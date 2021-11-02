@@ -90,3 +90,9 @@ Python program is taking shape. It now prompts the user to enter two numbers and
 I'm working on the arithmetic_arranger function. It does the job: returns an arranged problem. The only minor issue are a few times when the formatter doesn't add an extra space between operator and operand. Still, that needs to be adapted to other project's requites but it's going alright.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1453895043706728449)
+
+### R1D15 [November 01, Monday, 2021]
+
+I continued with the Python arithmetic formatter project, where found the bug it had and fixed it. Most of your development time is actually reading code rather than typing, they say; It's making a whole lot of sense now, even with a simple project.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1455413896055984143)
