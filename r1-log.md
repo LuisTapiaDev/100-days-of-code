@@ -96,3 +96,9 @@ I'm working on the arithmetic_arranger function. It does the job: returns an arr
 I continued with the Python arithmetic formatter project, where found the bug it had and fixed it. Most of your development time is actually reading code rather than typing, they say; It's making a whole lot of sense now, even with a simple project.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1455413896055984143)
+
+### R1D16 [November 02, Tuesday, 2021]
+
+Closer to a final app. It arranges the problems correctly. Somehow doesn't pass the freeCodeCamp tests on Replit but I'll figure it out tomorrow. Aside from it, I must clean the code as well. As an advice from tweet reply I received, it would be useful to search about declarative vs imperative programming in order to make my code more readable. Surely will check that later.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1455825514602668034)
