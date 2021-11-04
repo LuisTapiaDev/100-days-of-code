@@ -102,3 +102,9 @@ I continued with the Python arithmetic formatter project, where found the bug it
 Closer to a final app. It arranges the problems correctly. Somehow doesn't pass the freeCodeCamp tests on Replit but I'll figure it out tomorrow. Aside from it, I must clean the code as well. As an advice from tweet reply I received, it would be useful to search about declarative vs imperative programming in order to make my code more readable. Surely will check that later.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1455825514602668034)
+
+### R1D17 [November 03, Wednesday, 2021]
+
+The formatter already works well, but isn't 'pixel perfect' regarding some end-of-the-line spacing and hence fails some of the freeCodeCamp tests. All the time today was taken on debugging.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1456136357525422082)
