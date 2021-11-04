@@ -108,3 +108,9 @@ Closer to a final app. It arranges the problems correctly. Somehow doesn't pass 
 The formatter already works well, but isn't 'pixel perfect' regarding some end-of-the-line spacing and hence fails some of the freeCodeCamp tests. All the time today was taken on debugging.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1456136357525422082)
+
+### R1D18 [November 04, Thursday, 2021']
+
+Yet again, another coding session fully meant for debugging. The error that caused inconsistencies when adding spaces and line breaks to the formatted results was easier than expected, but took time. Then I noticed that the assignment requested as well to return error messages when the list given doesn't accomplish the requisites. This will probably be almost done tomorrow; I need to check further about regular expressions to solve it. As my today python session is now completed, I'll spend the rest of the day with JS lessons.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1456375935469604868)
