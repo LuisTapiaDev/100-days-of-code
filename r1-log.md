@@ -109,8 +109,14 @@ The formatter already works well, but isn't 'pixel perfect' regarding some end-o
 
 [Today's tweet.](https://twitter.com/doggelou/status/1456136357525422082)
 
-### R1D18 [November 04, Thursday, 2021']
+### R1D18 [November 04, Thursday, 2021]
 
 Yet again, another coding session fully meant for debugging. The error that caused inconsistencies when adding spaces and line breaks to the formatted results was easier than expected, but took time. Then I noticed that the assignment requested as well to return error messages when the list given doesn't accomplish the requisites. This will probably be almost done tomorrow; I need to check further about regular expressions to solve it. As my today python session is now completed, I'll spend the rest of the day with JS lessons.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1456375935469604868)
+
+### R1D19 [November 05, Friday, 2021]
+
+All freeCodeCamp's tests passed in arithmetic arranger. I'll move on to the next project, but will clean code and add UI to this project in the future.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1456872025956524033)
