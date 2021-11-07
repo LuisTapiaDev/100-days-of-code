@@ -121,8 +121,14 @@ All freeCodeCamp's tests passed in arithmetic arranger. I'll move on to the next
 
 [Today's tweet.](https://twitter.com/doggelou/status/1456872025956524033)
 
-# R1D20 [November 06, Saturday, 2021]
+### R1D20 [November 06, Saturday, 2021]
 
 Beginning with freeCodeCamp's time calculator. I was planning about how to handle the project most of the today's time, but now it's ready to be coded!
 
 [Today's tweet.](https://twitter.com/doggelou/status/1457215176801804288)
+
+### R1D21 [November 07, Sunday, 2022]
+
+At first, the project didn't seem too complex -it isn't eitherways-, but looking at it and figuring out how to do it, it wasn't as straightforward as it seemed. You better off plan it well when coding, so I did it: made a list of smaller tasks that should be done for completing the project: from simple to complex. It worked. Now I'm fairly confident about what I am doing and feels great.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1457429483858927620)
