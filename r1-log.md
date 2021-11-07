@@ -120,3 +120,9 @@ Yet again, another coding session fully meant for debugging. The error that caus
 All freeCodeCamp's tests passed in arithmetic arranger. I'll move on to the next project, but will clean code and add UI to this project in the future.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1456872025956524033)
+
+# R1D20 [November 06, Saturday, 2021]
+
+Beginning with freeCodeCamp's time calculator. I was planning about how to handle the project most of the today's time, but now it's ready to be coded!
+
+[Today's tweet.](https://twitter.com/doggelou/status/1457215176801804288)
