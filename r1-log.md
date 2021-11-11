@@ -138,3 +138,15 @@ At first, the project didn't seem too complex -it isn't eitherways-, but looking
 Won't be updating on Twitter today because I'm out of internet, but still I coded. I'm adding more functions to the time calculator and started to realize the power it has in making your code more succint. Best of all is that many of these functions I'm creating may come handy in the future, because it's extremely common to manipulate hours and time in many formats all the time.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1458798150852878336)
+
+### R1D23 [November 09, Thursday, 2021]
+
+Jeez, another day without internet connection. Tomorrow that will be fixed and I will tryhard with coding.
+
+First I solved the FizzBuzz problem and decomposed it in a variety of reusable JS functions- Don't know if an overkill for the particular problem since it could be solved with less lines of code (the functions were _really_ simple anyways), but it made me understand how handy can be to have different functions that do specific thing in the program. Probably as the program scales those specific functions may fit for different related tasks and avoid repeating code.
+
+Then, I continued with the Python time calculator. Coincidentally I was reading today from The Odin Project Curriculum that problem solving skills are planning are crucial, even more importat than coding itself. This denmonstrated to be true today as I felt lost when trying to figure out what to do next in the code. Even though I already made a plan after begging with the project, it wasn't too specific, and many of the 'little chuncks' I was solving weren't as simple as I thought. So, pseudocoding would be useful, and that's what I'll be doing tomorrow.
+
+P.S. Soon the next JS project (rock paper scissors) will be developed.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1458799496809357316)
