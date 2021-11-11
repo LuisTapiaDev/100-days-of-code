@@ -127,8 +127,14 @@ Beginning with freeCodeCamp's time calculator. I was planning about how to handl
 
 [Today's tweet.](https://twitter.com/doggelou/status/1457215176801804288)
 
-### R1D21 [November 07, Sunday, 2022]
+### R1D21 [November 07, Sunday, 2021]
 
 At first, the project didn't seem too complex -it isn't eitherways-, but looking at it and figuring out how to do it, it wasn't as straightforward as it seemed. You better off plan it well when coding, so I did it: made a list of smaller tasks that should be done for completing the project: from simple to complex. It worked. Now I'm fairly confident about what I am doing and feels great.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1457429483858927620)
+
+### R1D22 [November 08, Monday, 2021]
+
+Won't be updating on Twitter today because I'm out of internet, but still I coded. I'm adding more functions to the time calculator and started to realize the power it has in making your code more succint. Best of all is that many of these functions I'm creating may come handy in the future, because it's extremely common to manipulate hours and time in many formats all the time.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1458798150852878336)
