@@ -139,7 +139,7 @@ Won't be updating on Twitter today because I'm out of internet, but still I code
 
 [Today's tweet.](https://twitter.com/doggelou/status/1458798150852878336)
 
-### R1D23 [November 09, Thursday, 2021]
+### R1D23 [November 09, Tuesday, 2021]
 
 Jeez, another day without internet connection. Tomorrow that will be fixed and I will tryhard with coding.
 
@@ -150,3 +150,9 @@ Then, I continued with the Python time calculator. Coincidentally I was reading 
 P.S. Soon the next JS project (rock paper scissors) will be developed.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1458799496809357316)
+
+### R1D24 [November 11, Thursday, 2021]
+
+Before completing different lessons from The Odin Projcet curriculum I began with the Rock Paper Scissors JavaScript project. It's console-based and only made up of functions, but it's proving to be good practice. It's mostly done, but since it's late I will finish it between tomorrow and the day after it. Same as before, problem solving and planning of the solution is taking importance and I'm planning to sharpen that skill with CodeWars, from which I did a kata today and enjoyed it.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1459052349947666435)
