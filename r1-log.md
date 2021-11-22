@@ -156,3 +156,9 @@ P.S. Soon the next JS project (rock paper scissors) will be developed.
 Before completing different lessons from The Odin Projcet curriculum I began with the Rock Paper Scissors JavaScript project. It's console-based and only made up of functions, but it's proving to be good practice. It's mostly done, but since it's late I will finish it between tomorrow and the day after it. Same as before, problem solving and planning of the solution is taking importance and I'm planning to sharpen that skill with CodeWars, from which I did a kata today and enjoyed it.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1459052349947666435)
+
+### R1D25 [November 21, Sunday, 2021]
+
+Really. Really won't be missing days anymore. I've been following through The Odin Project's curriculum and solved the exercises. They were simple but quite challenging at the same time. After that, I was required to install Node.js in order to run TDD for other practice exercises. It was successfully installed, but the exercises will be done tomorrow as it's too late right now.
+
+[Today's tweet.](https://twitter.com/doggelou/status/1462681722529611781s)
