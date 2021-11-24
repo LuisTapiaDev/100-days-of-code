@@ -162,3 +162,9 @@ Before completing different lessons from The Odin Projcet curriculum I began wit
 Really. Really won't be missing days anymore. I've been following through The Odin Project's curriculum and solved the exercises. They were simple but quite challenging at the same time. After that, I was required to install Node.js in order to run TDD for other practice exercises. It was successfully installed, but the exercises will be done tomorrow as it's too late right now.
 
 [Today's tweet.](https://twitter.com/doggelou/status/1462681722529611781s)
+
+### R1D26 [November 23, Tuesday, 2021]
+
+Pseudocode turns out to be _really_ useful. Just comment it out and makes your life easier. I'm working through TheOdinProject's javascript-exercises repository exercises.
+
+[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1463399828277415936)
