@@ -168,3 +168,13 @@ Really. Really won't be missing days anymore. I've been following through The Od
 Pseudocode turns out to be _really_ useful. Just comment it out and makes your life easier. I'm working through TheOdinProject's javascript-exercises repository exercises.
 
 [Today's tweet.](https://twitter.com/LuisTapiaDev/status/1463399828277415936)
+
+### R1D27 [November 24, Wednesday, 2021]
+
+I'ma talk about two things: what I did today, and my recent Platzi subscription purchase and what it relates to this.
+
+I'm excited to be near to the final lessons of The Odin Project's Foundations course. I've enjoyed it so far and want to learn React soon. Today I completed some JavaScript exercises and heading on to the DOM manipulation topic.
+
+In addition to The Odin Project, I'll be taking Platzi courses to complement. Both for web and blockchain development, and many other topics, it has a very attractive value proposition. I'd love to learn blockchain development in the near future after frontend at TOP and hope these courses turn out well.
+
+[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1463694561113427974)
