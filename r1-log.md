@@ -178,3 +178,9 @@ I'm excited to be near to the final lessons of The Odin Project's Foundations co
 In addition to The Odin Project, I'll be taking Platzi courses to complement. Both for web and blockchain development, and many other topics, it has a very attractive value proposition. I'd love to learn blockchain development in the near future after frontend at TOP and hope these courses turn out well.
 
 [Today's tweet.](https://twitter.com/LuisTapiaDev/status/1463694561113427974)
+
+### R1D28 [December 11, Saturday, 2021]
+
+Getting up to speed with DOM manipulation, starting with a rock paper scissors. Most of the JavaScript logic was made today. Next day will be completed and have CSS added.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1469909479609225220)
