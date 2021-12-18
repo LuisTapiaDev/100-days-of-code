@@ -184,3 +184,9 @@ In addition to The Odin Project, I'll be taking Platzi courses to complement. Bo
 Getting up to speed with DOM manipulation, starting with a rock paper scissors. Most of the JavaScript logic was made today. Next day will be completed and have CSS added.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1469909479609225220)
+
+### R1D29 [December 17, Friday, 2021]
+
+I'm back yet again, and taking a frontend Platzi course to help me out building a nice using interface for The Odin Project's Rock Paper Scissors. As a challenge from that course was to try to build a Google homepage, and as I've already done it from a former TOP project, I decided to take Duck Duck Go as the challenge instead.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1472011381046140928)
