@@ -190,3 +190,9 @@ Getting up to speed with DOM manipulation, starting with a rock paper scissors. 
 I'm back yet again, and taking a frontend Platzi course to help me out building a nice using interface for The Odin Project's Rock Paper Scissors. As a challenge from that course was to try to build a Google homepage, and as I've already done it from a former TOP project, I decided to take Duck Duck Go as the challenge instead.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1472011381046140928)
+
+### R1D30 [December 22, Wednesday, 2021]
+
+I'm liking the Platzi courses and this project is proof of that. Taking a break from The Odin Project curriculum but I think following video courses can get me a chance to watch the teachers apply best practices of code. This one (practical JavaScript course) has presented several math applications in a website which could be useful for later projects. Probably will follow along the practical frontend developer course next and make the UI prettier.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1473914224233443334)
