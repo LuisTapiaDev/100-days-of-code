@@ -196,3 +196,9 @@ I'm back yet again, and taking a frontend Platzi course to help me out building 
 I'm liking the Platzi courses and this project is proof of that. Taking a break from The Odin Project curriculum but I think following video courses can get me a chance to watch the teachers apply best practices of code. This one (practical JavaScript course) has presented several math applications in a website which could be useful for later projects. Probably will follow along the practical frontend developer course next and make the UI prettier.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1473914224233443334)
+
+### R1D31 [December 23, Thursday, 2021]
+
+Following along the Platzi's practical JavaScript course, I made a function to calculate a number array's median, but the class' challenge was to sort the given array. This couldn't be done with the .sort() method only using one parameter because numbers are converted to strings. I made a workaround (with many lines of code) to make it work just fine but then realized I just had to read the docs that the class refered to as it could be made much simplier with only some additional parameters. At least I practiced coding after all.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1474308574968963081)
