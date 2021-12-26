@@ -202,3 +202,9 @@ I'm liking the Platzi courses and this project is proof of that. Taking a break 
 Following along the Platzi's practical JavaScript course, I made a function to calculate a number array's median, but the class' challenge was to sort the given array. This couldn't be done with the .sort() method only using one parameter because numbers are converted to strings. I made a workaround (with many lines of code) to make it work just fine but then realized I just had to read the docs that the class refered to as it could be made much simplier with only some additional parameters. At least I practiced coding after all.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1474308574968963081)
+
+### R1D32 [December 25, Saturday, 2021]
+
+Starting with The Odin Project's Etch-a-Sketch.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1475049893957812224)
