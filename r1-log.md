@@ -208,3 +208,9 @@ Following along the Platzi's practical JavaScript course, I made a function to c
 Starting with The Odin Project's Etch-a-Sketch.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1475049893957812224)
+
+### R1D33 [December 26, Sunday, 2021]
+
+Struggling with the Etch-a-Sketch project but enjoying the challenge. First it was the CSS styles from the canvas tag childs that didn't load when the class was added through JavaScript, and then the square divs appear as a black screen. Looking forward to keep on engineering the project tomorrow.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1475306214707838980)
