@@ -214,3 +214,9 @@ Starting with The Odin Project's Etch-a-Sketch.
 Struggling with the Etch-a-Sketch project but enjoying the challenge. First it was the CSS styles from the canvas tag childs that didn't load when the class was added through JavaScript, and then the square divs appear as a black screen. Looking forward to keep on engineering the project tomorrow.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1475306214707838980)
+
+### R1D34 [December 27, Tuesday, 2021]
+
+Etch-a-Sketch is working as expected, and some variables and functions were created to make things easier for later modifications. Still there are additional features to be added but everything is going great. This will be finished soon.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1476052285654376449)
