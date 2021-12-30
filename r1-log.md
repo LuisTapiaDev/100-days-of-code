@@ -220,3 +220,9 @@ Struggling with the Etch-a-Sketch project but enjoying the challenge. First it w
 Etch-a-Sketch is working as expected, and some variables and functions were created to make things easier for later modifications. Still there are additional features to be added but everything is going great. This will be finished soon.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1476052285654376449)
+
+### R1D35 [December 29, Wednesday, 2021]
+
+Now the project is a lot more fun, but a lot more complex as well. Mostly every adjustment gives me the necessity to refactor some lines of code to make it cleaner. Though being somewhat repetitive sometimes, doing this project is exciting me. I'm building something cool aside from advancing in the curriculum, and that makes me proud.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1476441011157037056)
