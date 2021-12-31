@@ -226,3 +226,9 @@ Etch-a-Sketch is working as expected, and some variables and functions were crea
 Now the project is a lot more fun, but a lot more complex as well. Mostly every adjustment gives me the necessity to refactor some lines of code to make it cleaner. Though being somewhat repetitive sometimes, doing this project is exciting me. I'm building something cool aside from advancing in the curriculum, and that makes me proud.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1476441011157037056)
+
+### R1D36 [December 30, Thursday, 2021]
+
+Hadn't internet connecion to tweet yesterday but still did the job. Now the Etch-a-Sketch is not only black but has a variety of colors to choose from, as custom, random, rainbow and eraser mode. Just grayscale mode and the UI design is left to be done.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1476971520018817030)
