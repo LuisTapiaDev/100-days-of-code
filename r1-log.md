@@ -232,3 +232,9 @@ Now the project is a lot more fun, but a lot more complex as well. Mostly every 
 Hadn't internet connecion to tweet yesterday but still did the job. Now the Etch-a-Sketch is not only black but has a variety of colors to choose from, as custom, random, rainbow and eraser mode. Just grayscale mode and the UI design is left to be done.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1476971520018817030)
+
+### R1D37 [January 02, Sunday, 2022]
+
+Etch-a-Sketch's UI design has actually a first finished version now. Later changes in the near future will be only to the design. I've already completed the grayscale feature on Dec 31 but somehow didn't tracked it. With the project done (and too lazy to keep curating the aesthetics for the moment), I'm ready to move on to further lessons/projects.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1477897589307723776)
