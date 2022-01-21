@@ -238,3 +238,9 @@ Hadn't internet connecion to tweet yesterday but still did the job. Now the Etch
 Etch-a-Sketch's UI design has actually a first finished version now. Later changes in the near future will be only to the design. I've already completed the grayscale feature on Dec 31 but somehow didn't tracked it. With the project done (and too lazy to keep curating the aesthetics for the moment), I'm ready to move on to further lessons/projects.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1477897589307723776)
+
+### R1D38 [January 20, Thursday, 2022]
+
+Hey! It's me again after almost three weeks of absence. Although the inconsistency, things are looking bright in the near future. I'm working with getting averages from a list of numbers with JS functions and building the UI for it. Aside from this current project, I'm taking a WordPress course to soon be starting a blog.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1484425228776210435)
