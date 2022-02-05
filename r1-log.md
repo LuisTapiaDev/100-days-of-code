@@ -244,3 +244,9 @@ Etch-a-Sketch's UI design has actually a first finished version now. Later chang
 Hey! It's me again after almost three weeks of absence. Although the inconsistency, things are looking bright in the near future. I'm working with getting averages from a list of numbers with JS functions and building the UI for it. Aside from this current project, I'm taking a WordPress course to soon be starting a blog.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1484425228776210435)
+
+### R1D39 [February 04, Friday, 2022]
+
+Yet again... coming back. Most of my activity these days was taking courses about diverse topics and didn't focus specifically on the matter: programming. Maybe because of knowing it isn't that easy and either wasn't today. The math website I'm working on has got to calc different averages and handle some possible errors, not to mention it still hasn't got a nice user interface. Most of the today's work was getting a simple function to work and then realizing it needed further debugging. Advancing here seems slow but I hope it builds up something I'll be proud of in the future.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1489839106951634945)
