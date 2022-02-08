@@ -11,133 +11,133 @@ Furtheraway I'll be moving on to blockchain development, and any technology that
 
 Continued with The Odin Project's landing page project, which is sushi themed. Since I did the HTML structure yesterday, today I focused on tuning up the hero section.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1448665927701176322)
+[Today's tweet.](https://twitter.com/luisntapia/status/1448665927701176322)
 
 ### R1D2 [October 15, Friday, 2021]
 
 Sushi landig page initial template finished, but will be further styled tomorrow.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1449156052197552140)
+[Today's tweet.](https://twitter.com/luisntapia/status/1449156052197552140)
 
 ### R1D3 [October 16, Saturday, 2021]
 
 Sushi landing page is completed! Still not responsive for mobile but it will be done later. Moving on to further lessons and projects!
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1449599255325335552)
+[Today's tweet.](https://twitter.com/luisntapia/status/1449599255325335552)
 
 ### R1D4 [October 17, Sunday, 2021]
 
-Now as the [sushi landing page](https://github.com/LuisTapiaDev/sushi-landing-page) is done, I'm moving on to the JavaScript section of Foundations. While reading the lessons, I'm working on FreeCodeCamp's tribute page html/css project so I'm actually coding aside from the tutorials.
+Now as the [sushi landing page](https://github.com/luisntapia/sushi-landing-page) is done, I'm moving on to the JavaScript section of Foundations. While reading the lessons, I'm working on FreeCodeCamp's tribute page html/css project so I'm actually coding aside from the tutorials.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1449938896373129216)
+[Today's tweet.](https://twitter.com/luisntapia/status/1449938896373129216)
 
 ### R1D5 [October 18, Monday, 2021]
 
 Not great visual changes today, but I'm almost done cloning the FreeCodeCamp's mobile reference page for building the project. Next steps are adapting for desktop and then customizing the content and additional CSS to make it look nicer.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1450324352314920964)
+[Today's tweet.](https://twitter.com/luisntapia/status/1450324352314920964)
 
 ### R1D6 [October 19, Tuesday, 2021]
 
 Tweaked a few things and added media queries for resembling the FreeCodeCamp's example page. Now I'm adding my own content and style, beginning with the Marcus Aurelius image and placeholder text.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1450687018686717953)
+[Today's tweet.](https://twitter.com/luisntapia/status/1450687018686717953)
 
 ### R1D7 [October 20, Wednesday, 2021]
 
 Almost done with the project. Changed the display, colors, and background of the website. Only a few more styles and the timeline/quote content remaining.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1451050264379727873)
+[Today's tweet.](https://twitter.com/luisntapia/status/1451050264379727873)
 
 ### R1D8 [October 21, Thursday, 2021]
 
-The [tribute page](https://github.com/LuisTapiaDev/tribute-page) is finally done. It took a while but it's worth the results. Probably React stuff will be added later as I advance with The Odin Project's JavaScript path, but it's fine for now.
+The [tribute page](https://github.com/luisntapia/tribute-page) is finally done. It took a while but it's worth the results. Probably React stuff will be added later as I advance with The Odin Project's JavaScript path, but it's fine for now.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1451451941033291808)
+[Today's tweet.](https://twitter.com/luisntapia/status/1451451941033291808)
 
 ### R1D9 [October 23, Saturday, 2021]
 
 I couldn't commit here yesterday. I did try to do it and made the GitHub repo, but was too sleepy to complete the 1-hour daily challenge. Today I'm continuing with the freeCodeCamp's survey form project. The html is already done and passed all the tests. So, tomorrow will be meant to make the project look beautiful.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1452181741175705600)
+[Today's tweet.](https://twitter.com/luisntapia/status/1452181741175705600)
 
 ### R1D10 [October 24, Sunday, 2021]
 
 I made an image background for the form and applied a few media queries to make the webpage responsive. I'm pretty close to finish this one, and mostly what's remaining is styling the fonts and form elements. Will probably personalize the form info later. On the other side, I'm taking steps to get to The Odin Project's JS calculator ASAP, so the fun begins!
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1452539394079006720)
+[Today's tweet.](https://twitter.com/luisntapia/status/1452539394079006720)
 
 ### R1D11 [October 25, Monday, 2021]
 
 Styling form elements isn't as straightforward as I thought but I'm pretty much done with that. It already looks cool, further details would be refining the stuff. CSS has been kinda tricky so far, and some seemingly simple things actually take its time to figure it out. Still looking forward to JS.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1452915046170996739)
+[Today's tweet.](https://twitter.com/luisntapia/status/1452915046170996739)
 
 ### R1D12 [October 26, Tuesday, 2021]
 
 I haven't coded with python after a while, but it's my first programming language -from which I've learned the syntax, at least. I've returned to it today while completing the freeCodeCamp's Scientific Computing with Python Certification's arithmetic formatter project. Though the time I've been around with it, my knowledge is still within the basic syntax, and the project seems challenging, so I'm happy with it.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1453252621456773127)
+[Today's tweet.](https://twitter.com/luisntapia/status/1453252621456773127)
 
 ### R1D13 [October 27, Wednesday, 2021]
 
 Python program is taking shape. It now prompts the user to enter two numbers and an operator. I handles exceptions very well, and displays all the operations results either when it reaches a max of 5 or when the user tells so. Still, it needs to format the results and get input by means of a function, but the core is already there.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1453628397993684994)
+[Today's tweet.](https://twitter.com/luisntapia/status/1453628397993684994)
 
 ### R1D14 [October 28, Thursday, 2021]
 
 I'm working on the arithmetic_arranger function. It does the job: returns an arranged problem. The only minor issue are a few times when the formatter doesn't add an extra space between operator and operand. Still, that needs to be adapted to other project's requites but it's going alright.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1453895043706728449)
+[Today's tweet.](https://twitter.com/luisntapia/status/1453895043706728449)
 
 ### R1D15 [November 01, Monday, 2021]
 
 I continued with the Python arithmetic formatter project, where found the bug it had and fixed it. Most of your development time is actually reading code rather than typing, they say; It's making a whole lot of sense now, even with a simple project.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1455413896055984143)
+[Today's tweet.](https://twitter.com/luisntapia/status/1455413896055984143)
 
 ### R1D16 [November 02, Tuesday, 2021]
 
 Closer to a final app. It arranges the problems correctly. Somehow doesn't pass the freeCodeCamp tests on Replit but I'll figure it out tomorrow. Aside from it, I must clean the code as well. As an advice from tweet reply I received, it would be useful to search about declarative vs imperative programming in order to make my code more readable. Surely will check that later.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1455825514602668034)
+[Today's tweet.](https://twitter.com/luisntapia/status/1455825514602668034)
 
 ### R1D17 [November 03, Wednesday, 2021]
 
 The formatter already works well, but isn't 'pixel perfect' regarding some end-of-the-line spacing and hence fails some of the freeCodeCamp tests. All the time today was taken on debugging.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1456136357525422082)
+[Today's tweet.](https://twitter.com/luisntapia/status/1456136357525422082)
 
 ### R1D18 [November 04, Thursday, 2021]
 
 Yet again, another coding session fully meant for debugging. The error that caused inconsistencies when adding spaces and line breaks to the formatted results was easier than expected, but took time. Then I noticed that the assignment requested as well to return error messages when the list given doesn't accomplish the requisites. This will probably be almost done tomorrow; I need to check further about regular expressions to solve it. As my today python session is now completed, I'll spend the rest of the day with JS lessons.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1456375935469604868)
+[Today's tweet.](https://twitter.com/luisntapia/status/1456375935469604868)
 
 ### R1D19 [November 05, Friday, 2021]
 
 All freeCodeCamp's tests passed in arithmetic arranger. I'll move on to the next project, but will clean code and add UI to this project in the future.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1456872025956524033)
+[Today's tweet.](https://twitter.com/luisntapia/status/1456872025956524033)
 
 ### R1D20 [November 06, Saturday, 2021]
 
 Beginning with freeCodeCamp's time calculator. I was planning about how to handle the project most of the today's time, but now it's ready to be coded!
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1457215176801804288)
+[Today's tweet.](https://twitter.com/luisntapia/status/1457215176801804288)
 
 ### R1D21 [November 07, Sunday, 2021]
 
 At first, the project didn't seem too complex -it isn't eitherways-, but looking at it and figuring out how to do it, it wasn't as straightforward as it seemed. You better off plan it well when coding, so I did it: made a list of smaller tasks that should be done for completing the project: from simple to complex. It worked. Now I'm fairly confident about what I am doing and feels great.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1457429483858927620)
+[Today's tweet.](https://twitter.com/luisntapia/status/1457429483858927620)
 
 ### R1D22 [November 08, Monday, 2021]
 
 Won't be updating on Twitter today because I'm out of internet, but still I coded. I'm adding more functions to the time calculator and started to realize the power it has in making your code more succint. Best of all is that many of these functions I'm creating may come handy in the future, because it's extremely common to manipulate hours and time in many formats all the time.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1458798150852878336)
+[Today's tweet.](https://twitter.com/luisntapia/status/1458798150852878336)
 
 ### R1D23 [November 09, Tuesday, 2021]
 
@@ -149,25 +149,25 @@ Then, I continued with the Python time calculator. Coincidentally I was reading 
 
 P.S. Soon the next JS project (rock paper scissors) will be developed.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1458799496809357316)
+[Today's tweet.](https://twitter.com/luisntapia/status/1458799496809357316)
 
 ### R1D24 [November 11, Thursday, 2021]
 
 Before completing different lessons from The Odin Projcet curriculum I began with the Rock Paper Scissors JavaScript project. It's console-based and only made up of functions, but it's proving to be good practice. It's mostly done, but since it's late I will finish it between tomorrow and the day after it. Same as before, problem solving and planning of the solution is taking importance and I'm planning to sharpen that skill with CodeWars, from which I did a kata today and enjoyed it.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1459052349947666435)
+[Today's tweet.](https://twitter.com/luisntapia/status/1459052349947666435)
 
 ### R1D25 [November 21, Sunday, 2021]
 
 Really. Really won't be missing days anymore. I've been following through The Odin Project's curriculum and solved the exercises. They were simple but quite challenging at the same time. After that, I was required to install Node.js in order to run TDD for other practice exercises. It was successfully installed, but the exercises will be done tomorrow as it's too late right now.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1462681722529611781s)
+[Today's tweet.](https://twitter.com/luisntapia/status/1462681722529611781s)
 
 ### R1D26 [November 23, Tuesday, 2021]
 
 Pseudocode turns out to be _really_ useful. Just comment it out and makes your life easier. I'm working through TheOdinProject's javascript-exercises repository exercises.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1463399828277415936)
+[Today's tweet.](https://twitter.com/luisntapia/status/1463399828277415936)
 
 ### R1D27 [November 24, Wednesday, 2021]
 
@@ -177,7 +177,7 @@ I'm excited to be near to the final lessons of The Odin Project's Foundations co
 
 In addition to The Odin Project, I'll be taking Platzi courses to complement. Both for web and blockchain development, and many other topics, it has a very attractive value proposition. I'd love to learn blockchain development in the near future after frontend at TOP and hope these courses turn out well.
 
-[Today's tweet.](https://twitter.com/LuisTapiaDev/status/1463694561113427974)
+[Today's tweet.](https://twitter.com/luisntapia/status/1463694561113427974)
 
 ### R1D28 [December 11, Saturday, 2021]
 
