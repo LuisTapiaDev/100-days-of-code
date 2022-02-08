@@ -250,3 +250,9 @@ Hey! It's me again after almost three weeks of absence. Although the inconsisten
 Yet again... coming back. Most of my activity these days was taking courses about diverse topics and didn't focus specifically on the matter: programming. Maybe because of knowing it isn't that easy and either wasn't today. The math website I'm working on has got to calc different averages and handle some possible errors, not to mention it still hasn't got a nice user interface. Most of the today's work was getting a simple function to work and then realizing it needed further debugging. Advancing here seems slow but I hope it builds up something I'll be proud of in the future.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1489839106951634945)
+
+### R1D40 [February 07, Monday, 2022]
+
+Harder than I expected, but easy when you are already tackling the job. Now most of the average.js programming is done but the interquartile mean which is still pending. There's still room to refactor and curate my code too. I'm making an effort to make this website cool, so just wait to see it when times comes to design the CSS.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1490893255961354242)
