@@ -256,3 +256,9 @@ Yet again... coming back. Most of my activity these days was taking courses abou
 Harder than I expected, but easy when you are already tackling the job. Now most of the average.js programming is done but the interquartile mean which is still pending. There's still room to refactor and curate my code too. I'm making an effort to make this website cool, so just wait to see it when times comes to design the CSS.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1490893255961354242)
+
+### R1D41 [February 08, Tuesday, 2022]
+
+Finally fixed the interquartile mean bug and found it it was way easier than I though before. Coming up with a fresh mind helps for sure. I've bingewatched most of the Platzi's ECMAScript 6+ course afterwards and then tried to make a fibonacci function as part of The Odin Project's JavaScript exercises repo.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1491327490400612355)
