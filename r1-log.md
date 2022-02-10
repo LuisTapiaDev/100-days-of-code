@@ -262,3 +262,9 @@ Harder than I expected, but easy when you are already tackling the job. Now most
 Finally fixed the interquartile mean bug and found it it was way easier than I though before. Coming up with a fresh mind helps for sure. I've bingewatched most of the Platzi's ECMAScript 6+ course afterwards and then tried to make a fibonacci function as part of The Odin Project's JavaScript exercises repo.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1491327490400612355)
+
+### R1D42 [February 09, Wednesday, 2022]
+
+Solved the JavaScript exercises required for the practice before the calculator project. So tomorrow I'll start with the final Foundations's project, the calculator. Regarding courses, I've finished watching the ECMAScript 6+ one and tomorrow start with the Frontend Developer courses —all of them from Platzi— to consolidate my HTML/CSS knowledge.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1491571594661183497)
