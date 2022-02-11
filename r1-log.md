@@ -268,3 +268,9 @@ Finally fixed the interquartile mean bug and found it it was way easier than I t
 Solved the JavaScript exercises required for the practice before the calculator project. So tomorrow I'll start with the final Foundations's project, the calculator. Regarding courses, I've finished watching the ECMAScript 6+ one and tomorrow start with the Frontend Developer courses —all of them from Platzi— to consolidate my HTML/CSS knowledge.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1491571594661183497)
+
+### R1D43 [February 10, Thursday, 2022]
+
+Starting with The Odin Project's JavaScript calculator project. Going on with the Frontend Developer course as well.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1492045292077727762)
