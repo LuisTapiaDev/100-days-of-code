@@ -274,3 +274,9 @@ Solved the JavaScript exercises required for the practice before the calculator 
 Starting with The Odin Project's JavaScript calculator project. Going on with the Frontend Developer course as well.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1492045292077727762)
+
+### R1D44 [February 11, Friday, 2022]
+
+Seriously considering to read the "How to Think Like a Programmer" book. Everything was extremely smooth while building the calculator until it was time to validate the user input... There were more conditionals needed than what I would have thought at the first glance, and still I'm in the process on figuring this out—probably with spaghetti code. It's somewhat tedious but gratifying at the same time to have a challenge.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1492293638902194177)
