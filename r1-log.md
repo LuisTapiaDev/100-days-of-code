@@ -280,3 +280,9 @@ Starting with The Odin Project's JavaScript calculator project. Going on with th
 Seriously considering to read the "How to Think Like a Programmer" book. Everything was extremely smooth while building the calculator until it was time to validate the user input... There were more conditionals needed than what I would have thought at the first glance, and still I'm in the process on figuring this out—probably with spaghetti code. It's somewhat tedious but gratifying at the same time to have a challenge.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1492293638902194177)
+
+### R1D45 [February 14, Monday, 2022]
+
+I'm almost done validating the user inputs for the calculator, which is still somewhat spaghetti code. I've read some of "Think Like a Programmer" book as well, and I'm really liking it, so hopefully I'm leveling up my coding skills soon. Other stuff that I'm learning is the foundations of Data Science with Platzi's Datacademy challenge and basic C++ syntax to follow up with Think Like a Programmer.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1493463892969893889)
