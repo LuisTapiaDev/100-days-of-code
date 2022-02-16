@@ -292,3 +292,9 @@ I'm almost done validating the user inputs for the calculator, which is still so
 Still with the input validator, now making the screen's operators be replaced if a new one is clicked instead of a number. Most of the stuff works well, except for a few bugs. I'm worried that code is getting spaghettier—a long refactoring session is coming after making it work.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1493869084617883648)
+
+### R1D47 [February 16, Wednesday, 2022]
+
+I was nearest to the expected outcome of the calculator than I thought. I've got clarified in The Odin Project's Discord that operations must be done one after another, not respecting the operators precedence. That's for a reason, I would have got overwhelmed and not focused on other interesting stuff. Now the calculator already works except for some bugs that should be easily fixed later. Afterwards only CSS and some additional features are remaining.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1494045620092481537)
