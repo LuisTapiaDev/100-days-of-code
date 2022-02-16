@@ -286,3 +286,9 @@ Seriously considering to read the "How to Think Like a Programmer" book. Everyth
 I'm almost done validating the user inputs for the calculator, which is still somewhat spaghetti code. I've read some of "Think Like a Programmer" book as well, and I'm really liking it, so hopefully I'm leveling up my coding skills soon. Other stuff that I'm learning is the foundations of Data Science with Platzi's Datacademy challenge and basic C++ syntax to follow up with Think Like a Programmer.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1493463892969893889)
+
+### R1D46 [February 15, Tuesday, 2022]
+
+Still with the input validator, now making the screen's operators be replaced if a new one is clicked instead of a number. Most of the stuff works well, except for a few bugs. I'm worried that code is getting spaghettier—a long refactoring session is coming after making it work.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1493869084617883648)
