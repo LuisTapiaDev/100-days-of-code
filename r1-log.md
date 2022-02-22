@@ -304,3 +304,9 @@ I was nearest to the expected outcome of the calculator than I thought. I've got
 Reimagining the logic of the application. It happens that many of the stuff I thought it should be featured in the calculator it shouldn't have. Again, it's currently buggy, but still doesn't seem like too much to fix.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1494918704617988096)
+
+### R1D49 [February 21, Monday, 2022]
+
+My code right know is messy, but the one I commented out in order to start fresh was even worse. Probably was a productive thing to think again about the logic, so I'm more confident on what I'm doing.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1496053425712373761)
