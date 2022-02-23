@@ -310,3 +310,9 @@ Reimagining the logic of the application. It happens that many of the stuff I th
 My code right know is messy, but the one I commented out in order to start fresh was even worse. Probably was a productive thing to think again about the logic, so I'm more confident on what I'm doing.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1496053425712373761)
+
+### R1D50 [February 22, Tuesday, 2022]
+
+Maybe shouldn't say that I'm "close to finishing" anymore, every time something happens. Still, the code structure makes everything clearer, most of the stuff except a bug are working as expected, and probably fixing the bug will speed things up. There're many things left besides calculating tho, like making the CSS nice, for example. Anyways, everything is going smoother.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1496399357662351361)
