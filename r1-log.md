@@ -316,3 +316,10 @@ My code right know is messy, but the one I commented out in order to start fresh
 Maybe shouldn't say that I'm "close to finishing" anymore, every time something happens. Still, the code structure makes everything clearer, most of the stuff except a bug are working as expected, and probably fixing the bug will speed things up. There're many things left besides calculating tho, like making the CSS nice, for example. Anyways, everything is going smoother.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1496399357662351361)
+
+### R151 [February 23, Wednesday, 2022]
+
+Calculator is already working as expected except for some some bugs + made myself a way to debug unexpected behavior.
+Added an event listener to every button which launches the debugger if something's wrong with the array I use for the operations.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1496766730596720640)
