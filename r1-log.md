@@ -323,3 +323,9 @@ Calculator is already working as expected except for some some bugs + made mysel
 Added an event listener to every button which launches the debugger if something's wrong with the array I use for the operations.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1496766730596720640)
+
+### R1D52 [February 24, Thursday, 2022]
+
+Calculator working as expected, but it needs serious refactoring.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1497124820126949396)
