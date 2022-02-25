@@ -329,3 +329,9 @@ Added an event listener to every button which launches the debugger if something
 Calculator working as expected, but it needs serious refactoring.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1497124820126949396)
+
+### R1D53 [February 25, Friday, 2022]
+
+Now I added a backspace button, that's all. Every once a while I run into a bug when some weird combination of buttons are pressed and have to fix it. I've learned something about JavaScript debugging tools lately out of necessity. It's still the bare basics, but still much better than to console.log everything.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1497339537399422979)
