@@ -335,3 +335,9 @@ Calculator working as expected, but it needs serious refactoring.
 Now I added a backspace button, that's all. Every once a while I run into a bug when some weird combination of buttons are pressed and have to fix it. I've learned something about JavaScript debugging tools lately out of necessity. It's still the bare basics, but still much better than to console.log everything.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1497339537399422979)
+
+### R1D54 [February 27, Sunday, 2022]
+
+I learned about keyboard events today and applied it to add keyboard support for the calculator project. Tweaked around some sizes and alignments with CSS too.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1498241153652736003)
