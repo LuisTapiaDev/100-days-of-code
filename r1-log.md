@@ -341,3 +341,9 @@ Now I added a backspace button, that's all. Every once a while I run into a bug 
 I learned about keyboard events today and applied it to add keyboard support for the calculator project. Tweaked around some sizes and alignments with CSS too.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1498241153652736003)
+
+### R1D55 [February 28, Monday, 2022]
+
+Now modifying the calculator's CSS. I changed the `background-color` and `font-family` of some elements. The buttons were also rearranged to make them fix better. Overall, it looks better.
+
+[Today's tweet.](https://twitter.com/luisntapia/status/1498454262753464320)
