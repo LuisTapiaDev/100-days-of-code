@@ -347,3 +347,9 @@ I learned about keyboard events today and applied it to add keyboard support for
 Now modifying the calculator's CSS. I changed the `background-color` and `font-family` of some elements. The buttons were also rearranged to make them fix better. Overall, it looks better.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1498454262753464320)
+
+### R1D56 [March 03]
+
+Yesterday I was learning about asynchronous JavaScript. Today I applied promises to build a debugging tool. I didn't understand it so much at first, but writing the pseudocode logic in paper helped a lot. It clicks buttons randomly, and when an error is produced the code pauses in Chrome Dev Tools.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1499598323229024274)
