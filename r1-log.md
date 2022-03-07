@@ -348,8 +348,14 @@ Now modifying the calculator's CSS. I changed the `background-color` and `font-f
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1498454262753464320)
 
-### R1D56 [March 03]
+### R1D56 [March 03, Thursday]
 
 Yesterday I was learning about asynchronous JavaScript. Today I applied promises to build a debugging tool. I didn't understand it so much at first, but writing the pseudocode logic in paper helped a lot. It clicks buttons randomly, and when an error is produced the code pauses in Chrome Dev Tools.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1499598323229024274)
+
+### R1D57 [March 06, Sunday]
+
+It wasn't coding but pseudo-coding. The calculator program's logic was messy, as stated before. It was only time needed to perform a proper refactor. Still it's not the day, but ever closer. With paper and pencil in hand I built the logic from scratch. This cleared my mind and will help me to meet more gracefully the project's constraints. As stated in the "Think Like a Programmer" book, a plan is always needed. That was what I lacked, but I'm building it now.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1500654457335463938)
