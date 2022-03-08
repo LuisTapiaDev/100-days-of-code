@@ -359,3 +359,9 @@ Yesterday I was learning about asynchronous JavaScript. Today I applied promises
 It wasn't coding but pseudo-coding. The calculator program's logic was messy, as stated before. It was only time needed to perform a proper refactor. Still it's not the day, but ever closer. With paper and pencil in hand I built the logic from scratch. This cleared my mind and will help me to meet more gracefully the project's constraints. As stated in the "Think Like a Programmer" book, a plan is always needed. That was what I lacked, but I'm building it now.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1500654457335463938)
+
+### R1D58 [March 07, Monday]
+
+I did it. After figuring out the logic of the program on paper, now when I started coding the logic from scratch it was much cleaner than before and few bugs happened. Now most of the times the calculator works all right. It was proved another time that figuring out the algorithms is way more important than the syntax itself.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1501072920021540866)
