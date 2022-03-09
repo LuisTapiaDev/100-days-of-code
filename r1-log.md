@@ -365,3 +365,9 @@ It wasn't coding but pseudo-coding. The calculator program's logic was messy, as
 I did it. After figuring out the logic of the program on paper, now when I started coding the logic from scratch it was much cleaner than before and few bugs happened. Now most of the times the calculator works all right. It was proved another time that figuring out the algorithms is way more important than the syntax itself.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1501072920021540866)
+
+### R1D59 [March 06, Tuesday]
+
+I fixed some bugs, then highlighted the selected operators, then rounded the answers to four decimal places. I'm glad to have finished it after the long struggle to build the logic of the application.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1501477395966185475)
