@@ -366,8 +366,14 @@ I did it. After figuring out the logic of the program on paper, now when I start
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1501072920021540866)
 
-### R1D59 [March 06, Tuesday]
+### R1D59 [March 08, Tuesday]
 
 I fixed some bugs, then highlighted the selected operators, then rounded the answers to four decimal places. I'm glad to have finished it after the long struggle to build the logic of the application.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1501477395966185475)
+
+### R1D60 [March 09, Wednesday]
+
+I'm resuming the math website project, now doing the CSS. I rearranged the file structure and began with a mobile-first approach.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1501861527699308546)
