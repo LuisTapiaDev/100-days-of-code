@@ -377,3 +377,9 @@ I fixed some bugs, then highlighted the selected operators, then rounded the ans
 I'm resuming the math website project, now doing the CSS. I rearranged the file structure and began with a mobile-first approach.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1501861527699308546)
+
+### R1D61 [April 24, Sunday]
+
+Warming up with CodeWars challenges. Glad to code again and soon be working on my personal projects.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1518397877931982848)
