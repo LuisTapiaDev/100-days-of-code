@@ -383,3 +383,9 @@ I'm resuming the math website project, now doing the CSS. I rearranged the file 
 Warming up with CodeWars challenges. Glad to code again and soon be working on my personal projects.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1518397877931982848)
+
+### R1D62 [May 01, Sunday]
+
+Code Wars again, and I'm ranking up. It keeps getting more challenging each time.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1520863610230218755)
