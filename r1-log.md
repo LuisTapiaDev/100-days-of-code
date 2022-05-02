@@ -389,3 +389,9 @@ Warming up with CodeWars challenges. Glad to code again and soon be working on m
 Code Wars again, and I'm ranking up. It keeps getting more challenging each time.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1520863610230218755)
+
+### R1D63 [May 02, Monday]
+
+I still haven't got up to speed with the projects I were working on, but at least this is my second consecutive day coding after a long period of time, and I'm glad about it. Following days I should be following along The Odin Project aside from doing Code Wars challenges, which anyways are a great form of putting my skills into practice.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1521224787862999041)
