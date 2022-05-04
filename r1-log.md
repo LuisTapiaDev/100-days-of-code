@@ -395,3 +395,9 @@ Code Wars again, and I'm ranking up. It keeps getting more challenging each time
 I still haven't got up to speed with the projects I were working on, but at least this is my second consecutive day coding after a long period of time, and I'm glad about it. Following days I should be following along The Odin Project aside from doing Code Wars challenges, which anyways are a great form of putting my skills into practice.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1521224787862999041)
+
+### R1D64 [May 03, Tuesday]
+
+The today's Code Wars challenges were related to regular expressions. I like to use them, but they need to be practiced. Probably next days I'll be taking custom challenges to master them.
+
+[Today's tweet.](https://twitter.com/luistapiaco/status/1521746714885074944)
