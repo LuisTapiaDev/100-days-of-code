@@ -145,7 +145,7 @@ Jeez, another day without internet connection. Tomorrow that will be fixed and I
 
 First I solved the FizzBuzz problem and decomposed it in a variety of reusable JS functions- Don't know if an overkill for the particular problem since it could be solved with less lines of code (the functions were _really_ simple anyways), but it made me understand how handy can be to have different functions that do specific thing in the program. Probably as the program scales those specific functions may fit for different related tasks and avoid repeating code.
 
-Then, I continued with the Python time calculator. Coincidentally I was reading today from The Odin Project Curriculum that problem solving skills are planning are crucial, even more importat than coding itself. This denmonstrated to be true today as I felt lost when trying to figure out what to do next in the code. Even though I already made a plan after begging with the project, it wasn't too specific, and many of the 'little chuncks' I was solving weren't as simple as I thought. So, pseudocoding would be useful, and that's what I'll be doing tomorrow.
+Then, I continued with the Python time calculator. Coincidentally I was reading today from The Odin Project Curriculum that problem solving skills are planning are crucial, even more important than coding itself. This demonstrated to be true today as I felt lost when trying to figure out what to do next in the code. Even though I already made a plan after begging with the project, it wasn't too specific, and many of the 'little chuncks' I was solving weren't as simple as I thought. So, pseudocoding would be useful, and that's what I'll be doing tomorrow.
 
 P.S. Soon the next JS project (rock paper scissors) will be developed.
 
@@ -199,7 +199,7 @@ I'm liking the Platzi courses and this project is proof of that. Taking a break 
 
 ### R1D31 [December 23, Thursday, 2021]
 
-Following along the Platzi's practical JavaScript course, I made a function to calculate a number array's median, but the class' challenge was to sort the given array. This couldn't be done with the .sort() method only using one parameter because numbers are converted to strings. I made a workaround (with many lines of code) to make it work just fine but then realized I just had to read the docs that the class refered to as it could be made much simplier with only some additional parameters. At least I practiced coding after all.
+Following along the Platzi's practical JavaScript course, I made a function to calculate a number array's median, but the class' challenge was to sort the given array. This couldn't be done with the .sort() method only using one parameter because numbers are converted to strings. I made a workaround (with many lines of code) to make it work just fine but then realized I just had to read the docs that the class referred to as it could be made much simpler with only some additional parameters. At least I practiced coding after all.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1474308574968963081)
 
@@ -229,7 +229,7 @@ Now the project is a lot more fun, but a lot more complex as well. Mostly every 
 
 ### R1D36 [December 30, Thursday, 2021]
 
-Hadn't internet connecion to tweet yesterday but still did the job. Now the Etch-a-Sketch is not only black but has a variety of colors to choose from, as custom, random, rainbow and eraser mode. Just grayscale mode and the UI design is left to be done.
+Hadn't internet connection to tweet yesterday but still did the job. Now the Etch-a-Sketch is not only black but has a variety of colors to choose from, as custom, random, rainbow and eraser mode. Just grayscale mode and the UI design is left to be done.
 
 [Today's tweet.](https://twitter.com/luisntapia/status/1476971520018817030)
 
@@ -401,3 +401,9 @@ I still haven't got up to speed with the projects I were working on, but at leas
 The today's Code Wars challenges were related to regular expressions. I like to use them, but they need to be practiced. Probably next days I'll be taking custom challenges to master them.
 
 [Today's tweet.](https://twitter.com/luistapiaco/status/1521746714885074944)
+
+### R1D65 [November 10, Thursday]
+
+Working on a Platzi challenge today. I've been doing this for the past days but didn't commit to 100 days of code. Anyways, it has been fun and I learned about asynchronous JavaScript and API calls.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1590917669532106752)
