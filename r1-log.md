@@ -407,3 +407,9 @@ The today's Code Wars challenges were related to regular expressions. I like to 
 Working on a Platzi challenge today. I've been doing this for the past days but didn't commit to 100 days of code. Anyways, it has been fun and I learned about asynchronous JavaScript and API calls.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1590917669532106752)
+
+### R1D66 [November 19, Saturday]
+
+I'm working with Platzi's Fake Store API, following their API REST course. Here I display random products's images.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1594176074157629440)
