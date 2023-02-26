@@ -423,3 +423,9 @@ Last weeks or so I started to shift my focus (yet again...) to learn C#, and I l
 The current project I'm working on is a CLI game in C# that makes you practice math operations. I did it as a way to practice and go through a Platzi course about 'Logical Thinking', which makes you do this sort of things to practice.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1628599667339706369)
+
+### R1D68 [February 25, Saturday]
+
+The math trainer's codebase is getting larger and more complex. Probably I should be learning about functions or OOP in C# to simplify this. By now, this program is ever growing in features, with a new binary converter.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1629776255418527749)
