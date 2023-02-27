@@ -429,3 +429,9 @@ The current project I'm working on is a CLI game in C# that makes you practice m
 The math trainer's codebase is getting larger and more complex. Probably I should be learning about functions or OOP in C# to simplify this. By now, this program is ever growing in features, with a new binary converter.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1629776255418527749)
+
+### R1D69 [February 26, Sunday]
+
+I replaced some code of the Math Trainer with functions. Still I need to further improve it but it's way more readable now.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1630099857628180481)
