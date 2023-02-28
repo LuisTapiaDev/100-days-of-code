@@ -435,3 +435,9 @@ The math trainer's codebase is getting larger and more complex. Probably I shoul
 I replaced some code of the Math Trainer with functions. Still I need to further improve it but it's way more readable now.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1630099857628180481)
+
+### R1D70 [February 27, Monday]
+
+Adding binaries. Nice.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1630464150940930048)
