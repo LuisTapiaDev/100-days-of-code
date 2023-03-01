@@ -441,3 +441,9 @@ I replaced some code of the Math Trainer with functions. Still I need to further
 Adding binaries. Nice.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1630464150940930048)
+
+### R1D71 [February 28, Tuesday]
+
+Subtracting binaries. Super nice.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1630815761496170497)
