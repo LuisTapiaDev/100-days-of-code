@@ -447,3 +447,9 @@ Adding binaries. Nice.
 Subtracting binaries. Super nice.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1630815761496170497)
+
+### R1D72 [March 05, Sunday]
+
+I'm done with the binary operations, now only refactoring is left to do. New features will be added to the math trainer in the future, but the current focus is on code quality.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1632577164343234560)
