@@ -453,3 +453,9 @@ Subtracting binaries. Super nice.
 I'm done with the binary operations, now only refactoring is left to do. New features will be added to the math trainer in the future, but the current focus is on code quality.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1632577164343234560)
+
+### R1D73 [March 06, Monday]
+
+Refactoring the code with methods, trying to get it as simple as possible. Then I'll learn OOP and use it too but this is fine for now.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1632990943900041216)
