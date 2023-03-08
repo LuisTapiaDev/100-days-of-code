@@ -459,3 +459,9 @@ I'm done with the binary operations, now only refactoring is left to do. New fea
 Refactoring the code with methods, trying to get it as simple as possible. Then I'll learn OOP and use it too but this is fine for now.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1632990943900041216)
+
+### R1D74 [March 07, Tuesday]
+
+Created a method to prompt and get user input for the operation to solve and return a boolean to represent whether the answer provided was correct or not. These new methods are replacing repetitive code and each time I feel it's more organized overall.
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1633422889981554688)
