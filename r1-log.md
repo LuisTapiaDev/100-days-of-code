@@ -465,3 +465,9 @@ Refactoring the code with methods, trying to get it as simple as possible. Then 
 Created a method to prompt and get user input for the operation to solve and return a boolean to represent whether the answer provided was correct or not. These new methods are replacing repetitive code and each time I feel it's more organized overall.
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1633422889981554688)
+
+### R1D75 [March 08, Wednesday]
+
+Replacing repetitive code with methods...
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1633710847045369864)
