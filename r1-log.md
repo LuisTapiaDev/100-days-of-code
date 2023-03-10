@@ -471,3 +471,9 @@ Created a method to prompt and get user input for the operation to solve and ret
 Replacing repetitive code with methods...
 
 [Today's tweet.](https://twitter.com/tapiadot/status/1633710847045369864)
+
+### R1D76 [March 09, Thursday]
+
+New methods...
+
+[Today's tweet.](https://twitter.com/tapiadot/status/1634121863847706624)
